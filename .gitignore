@@ -181,3 +181,5 @@ fabric.properties
 \.idea/
 
 *.txt
+
+\.~lock\.mut\.csv#
