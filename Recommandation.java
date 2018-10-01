@@ -33,7 +33,7 @@ public class Recommandation {
 
         fileThemes.close();
         fileUsagers.close();
-        
+
         FileWriter matMUT = new FileWriter(new File("mut.txt"));
         for(String myuser : Usagers){
             for(String mytheme : Themes){
